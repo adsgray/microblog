@@ -1,0 +1,3 @@
+* adsgray microblog
+** [[pages/about.org][About]]
+** [[posts/][Posts]]

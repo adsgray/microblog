@@ -1,0 +1,3 @@
+* adsgray microblog
+** Founded in 2017
+** Obviates [[https://adsgray.github.io][my github.io blog]] where I never posted anyway
