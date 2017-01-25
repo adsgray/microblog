@@ -4,5 +4,5 @@
 * This is the blog.
 * This is what the blog looks like.
 * This github repository is the blog.
-* If you want to comment on something open a pull request.
+* If you want to comment on something create an issue against the repo.
 * Click [here](index.org)
