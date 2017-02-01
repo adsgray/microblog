@@ -8,5 +8,7 @@
 - Then run [[https://github.com/adsgray/scripts/blob/master/bash/fetcharticle.sh][fetcharticle.sh]] to get the contents of the page
 - Later, run [[https://github.com/adsgray/scripts/blob/master/bash/ziparticles.sh][ziparticles.sh]] to create a ZIP archive of today's pages
 - E-mail that zip file to myself
+  - I can open the ZIP attachment "in line" on both iOS and Android
+    and read the .txt files
 - Article ZIP archives live [[https://github.com/adsgray/articles][here]]
 - I think it's hilarious and it reminds me of [[https://en.wikipedia.org/wiki/QWK_(file_format)][QWK]]
