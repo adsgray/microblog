@@ -1,3 +1,7 @@
 * adsgray microblog
 ** Founded in 2017
 ** Obviates [[https://adsgray.github.io][my github.io blog]] where I never posted anyway
+** Bonus Features
+   - Use your browser's native "Back" and "Forward" buttons to
+     navigate.
+   - Never again will I have to look up how to format links in Markdown.
