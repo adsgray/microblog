@@ -1,0 +1,12 @@
+* Read It Later                                                       :emacs:
+
+** Very low-tech method
+
+- I use [[https://github.com/skeeto/elfeed][elfeed]] to read a bunch of RSS feeds
+- If I find a link I want to read later I press 'y' to copy the URL
+- Then 'C-x b' and switch to an eshell buffer
+- Then run [[https://github.com/adsgray/scripts/blob/master/bash/fetcharticle.sh][fetcharticle.sh]] to get the contents of the page
+- Later, run [[https://github.com/adsgray/scripts/blob/master/bash/ziparticles.sh][ziparticles.sh]] to create a ZIP archive of today's pages
+- E-mail that zip file to myself
+- Article ZIP archives live [[https://github.com/adsgray/articles][here]]
+- I think it's hilarious and it reminds me of [[https://en.wikipedia.org/wiki/QWK_(file_format)][QWK]]
