@@ -1,0 +1,13 @@
+* Sending an e-mail from a shell script
+** On MacOS X
+
+*** I'm sure this works under Linux as well. Here are the steps:
+    1. Go to [[https://security.google.com/settings/security/apppasswords][your google app passwords page]] and generate a new
+       password. Give it a custom name like /sendemail shell script/
+    2. Install /sendemail/. I did /brew install sendemail/
+    3. (This part might be a dumb thing to do): create a /secrets/
+       file that contains your google username and the generated app
+       password. You can "source" this file into your shell script.
+
+
+I wrote [[https://github.com/adsgray/scripts/blob/master/bash/emailarticles.sh][a shell script]] to email my [[https://github.com/adsgray/microblog/blob/master/posts/2017/02/01-read-it-later.org][daily Read-It-Later]] articles to myself.
