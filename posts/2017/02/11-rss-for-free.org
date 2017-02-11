@@ -1,0 +1,8 @@
+* RSS for free!                                                    :rss:blog:
+  I was going to write some kind of software (ugh) to generate an RSS
+  feed for posts to this blog but then I discovered that out of the
+  box, [[http://stackoverflow.com/questions/7353538/setting-up-an-github-commit-rss-feed][github provides Atom feeds of the commits to your repository]].
+
+  So [[https://github.com/adsgray/microblog/commits/master.atom][here]] is the feed for this blog.
+
+  Of course it will include edits/corrections which IMO is a plus.
