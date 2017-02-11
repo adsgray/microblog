@@ -5,3 +5,6 @@
    - Use your browser's native "Back" and "Forward" buttons to
      navigate.
    - Never again will I have to look up how to format links in Markdown.
+   - Yes there is an [[https://github.com/adsgray/microblog/commits/master.atom][RSS feed]]! To view the post follow the feed link,
+     then click the "View" button. People who like the obscure
+     "discoverable" interface of Snapchat should enjoy this.
