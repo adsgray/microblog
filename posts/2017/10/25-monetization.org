@@ -1,0 +1,31 @@
+* Monetization Plan
+
+I've been giving out my opinions for free on twitter for years. That
+stops now. From now on I will be charging a reasonable fee for my opinions.
+
+* Pricing Plans
+
+There is one pricing plan that applies to every customer and every
+opinion. It's the most fair pricing structure you are going to find
+anywhere, take a look.
+
+** Price
+
+The price is $10 (ten Canadian dollars, subject to change without
+notice) per opinion (also subject to change). If I have more than
+one thing to say about something and you want to hear it all it's $10
+per opinion or part thereof.
+
+* Frequently Asked Questions
+
+** How do I (customer) redeem the opinion?
+
+Please include your public encryption key with your payment. Once
+payment has been confirmed I will encrypt my opinion with your public
+encryption key and either e-mail it to you or post it on pastebin and
+tweet the pastebin link to you. You may decrypt and read the opinion
+an unlimited number of times.
+
+** May I (customer) redistribute or republish your opinion?
+
+Yes, if you have the same opinion. But don't credit me in any way.
