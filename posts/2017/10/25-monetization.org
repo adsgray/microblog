@@ -16,6 +16,28 @@ notice) per opinion (also subject to change). If I have more than
 one thing to say about something and you want to hear it all it's $10
 per opinion or part thereof.
 
+** "Guess" pricing
+
+You can try to guess my opinion and if you guess correctly I will
+confirm that you guessed correctly. This is the only known way to find
+out my opinion without paying money for it.
+
+** Weekly Specials
+
+There is a second pricing plan. Sometimes (not every week) I will have
+an Opinion Sale when the price for my opinion on a topical or
+soon-to-be-irrelevant thing is 50% off ($5 Canadian Dollars). Watch my
+twitter account closely for these specials as they expire at the end
+of the week in which they are posted.
+
+** Behaviour Manipultion pricing
+
+From time to time I may post an opinion that's encrypted with a pass
+phrase, along with instructions, maybe "Like this tweet and I'll send
+you the decryption pass phrase". All you have to do is follow the
+instructions and you will be able to decrypt and read the plaintext
+opinion.
+
 * Frequently Asked Questions
 
 ** How do I (customer) redeem the opinion?
@@ -35,3 +57,15 @@ Yes, if you have the same opinion.
 No. Apple doesn't make money by giving iPhones away and I will not
 discount my opinions. However I will trade/barter opinions with other
 opinion-givers on a case-by-case basis.
+
+** What is your (my) twitter account?
+
+Opinions are posted on twitter at: uhAndrew
+
+** For the purpose of Weekly Opinion Sales, what is the last day of the week?
+
+Sunday is the last day of the week.
+
+** How many guesses do I (customer) get, for "guess" pricing?
+
+Unlimited guesses.
