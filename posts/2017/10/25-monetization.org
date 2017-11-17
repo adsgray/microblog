@@ -75,3 +75,7 @@ Sunday is the last day of the week.
 ** How many guesses do I (customer) get, for "guess" pricing?
 
 Unlimited guesses.
+
+** What about your (my) opinions on new music? You post those in plaintext.
+
+Yes, I give those opinions out free of charge.
