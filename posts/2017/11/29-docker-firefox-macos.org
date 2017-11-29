@@ -1,0 +1,28 @@
+* How to run Firefox in Docker on MacOS
+
+** Install Docker
+
+** Build docker container
+*** Use this Dockerfile:
+https://hub.docker.com/r/ivankolmychek/firefox-ubuntu/~/dockerfile/
+
+*** Build it
+docker build -t firefox .
+
+** Install and run XQuartz/X11
+You might have X11 already. If not install it from https://www.xquartz.org/
+
+** Run xterm
+Applications -> Terminal
+
+** Launch container
+ip=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')
+xhost + $ip
+docker run -e DISPLAY=$ip:0 -v /tmp/.X11-unix:/tmp/.X11-unix firefox
+
+** Error:  Broadway display type not supported
+Ugh. Apparently after installing XQuartz you have to reboot before
+this will work.
+
+* I put all of this in a repository
+https://github.com/adsgray/firefox-ubuntu-docker
