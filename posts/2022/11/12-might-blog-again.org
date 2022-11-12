@@ -1,0 +1,7 @@
+* Might blog again
+I've recently resurrected my old mastodon/fediverse account so I also
+may resurrect this old blog.
+
+Mastodon account is [[https://mastodon.social/@uhandrew][here]].
+
+I don't think my old [[https://github.com/adsgray/microblog/blob/master/posts/2017/10/25-monetization.org][opinion monetization scheme]] will fly in the fediverse.
